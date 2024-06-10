@@ -6,6 +6,8 @@ This project demonstrates how to create a colorful heart cursor effect using HTM
 
 You can see a live demo of the project [here](https://logusivam.github.io/Multi-Heart-colorful-cursor-move/).
 
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
+
 ## Features
 
 - **Interactive Design**: Hearts follow the cursor movement, providing a fun and engaging user experience.
